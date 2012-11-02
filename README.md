@@ -6,7 +6,7 @@ Django Test Helper provides some utility functions when testing Django applicati
 Installation
 ------------
 
-Run `pip install hg+https://bitbucket.org/nextscreenlabs/django-test-helper`
+Run `pip install django-test-helper`
 
 Helpers
 -------
